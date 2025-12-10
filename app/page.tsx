@@ -135,7 +135,7 @@ export default function Home() {
     <div className="min-h-screen bg-cream-50 py-8 px-4">
       <div className="max-w-2xl mx-auto">
         <h1 className="text-3xl font-semibold text-center mb-8">
-          📋 商学会主催国際シンポジウム申込<br />（2025年12月12日主催）
+          📋 商学会主催国際シンポジウム申込<br />（2025年12月12日）
         </h1>
 
         <div className="card">
